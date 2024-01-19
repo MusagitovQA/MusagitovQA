@@ -58,8 +58,4 @@ class Main_page(Base):
         self.click_select_color()
         self.click_select_color_shoes()
 
-    # def select_menu_about(self):
-    #     self.get_current_url()
-    #     self.click_menu()
-    #     self.click_link_about()
-    #     self.assert_url('https://saucelabs.com/')
+
