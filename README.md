@@ -2,7 +2,7 @@
 
 Для запуска проекта:
 
--Скачать проект
+-Скачать проект https://github.com/MusagitovQA/MusagitovQA
 
 -Открыть файл requirements.txt и установить перечисленные зависимости
 
